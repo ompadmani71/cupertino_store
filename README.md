@@ -1,16 +1,10 @@
-# outcaster
+# cupertino_store
 
 A new Flutter project.
 
-## Getting Started
+![flutter_logo](https://user-images.githubusercontent.com/108392662/191747748-27ed8b82-7c4e-43fe-b175-9a6596529329.png)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+# Sample Vidio
+https://user-images.githubusercontent.com/108392662/196751053-ab013c78-5141-4537-aa8c-9c72173f6d29.mp4
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
